@@ -1,0 +1,41 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comments",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "users": [
+      {
+        "id": 1,
+        "email": "junaidy_rogi21@gmail.com",
+        "firstName": "Junaidy",
+        "lastName": "Rogi"
+      },
+      {
+        "id": 2,
+        "email": "lukesabbah@gmail.com",
+        "firstName": "Luke",
+        "lastName": "Kloah"
+      },
+      {
+        "id": 3,
+        "email": "erasiaputri@gmail.com",
+        "firstName": "Erasia",
+        "lastName": "Kloah"
+        
+        
+      }
+    ]
+  }
